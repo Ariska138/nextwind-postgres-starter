@@ -28,6 +28,13 @@ docker-compose up
 psql -d postgres -U  postgres -W
 ```
 
+or
+
+```bash
+psql 'postgres://postgres:root@localhost:5432/postgres'
+```
+
 ## Referensi
+
 - https://www.postgresqltutorial.com/postgresql-administration/psql-commands/
 - 
