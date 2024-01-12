@@ -2,6 +2,8 @@
 
 ## Getting Started
 
+### menyiapkan .env
+ubah `.env.sample` menjadi `.env.development.local`
 
 ### Menyiapkan Docker untuk DB
 
